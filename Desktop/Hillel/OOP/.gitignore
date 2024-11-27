@@ -1,0 +1,53 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Trash files
+.Trash/
+
+# Finder metadata
+._*
+
+# Visual Studio for macOS
+.vscode/
+.idea/
+.vs/
+.vs2019/
+.vs2017/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build directories
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ReleasePublic/
+x64/
+x86/
+x86_64/
+arm64/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer directory
+Deployment/
+
+# VS for Mac
+.vscode/
+
+# .NET Core and .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
