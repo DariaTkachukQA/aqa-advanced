@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "test": "jest",
-    "prepare": "husky install",
-    "eslint:all": "eslint . --fix",
+    "prepare": "husky",
+    "eslint:all": "npx eslint --fix .",
     "prettier:fix": "npx prettier --write"
   },
   "author": "",
