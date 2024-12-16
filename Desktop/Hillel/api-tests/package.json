@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "prepare": "husky",
-    "eslint:all": "npx eslint ."
+    "eslint:all": "npx eslint --fix",
+    "prettier:fix": "npx prettier --write"
   },
   "author": "",
   "license": "ISC",

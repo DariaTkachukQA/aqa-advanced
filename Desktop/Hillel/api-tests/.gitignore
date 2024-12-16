@@ -4,6 +4,11 @@ node_modules
 .AppleDouble
 .LSOverride
 
+.husky/pre-commit
+eslint.config.js
+package.json
+../aqa-advanced/.DS_Store
+
 # Thumbnails
 ._*
 
