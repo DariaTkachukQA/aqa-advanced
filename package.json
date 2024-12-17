@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "test": "jest",
-    "prepare": "husky",
+    "prepare": "husky install",
     "eslint:all": "eslint . --fix",
     "prettier:fix": "npx prettier --write"
   },
@@ -16,10 +16,9 @@
     "axios": "^1.7.9"
   },
   "devDependencies": {
-    "@eslint/js": "^9.17.0",
     "eslint": "^9.17.0",
-    "globals": "^15.13.0",
-    "husky": "^9.1.7",
+    "husky": "^7.0.0",
     "prettier": "3.4.2"
   }
 }
+
