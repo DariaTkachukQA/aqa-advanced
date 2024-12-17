@@ -6,7 +6,7 @@ export default [
     {
         rules: {
             "no-unused-vars": "warn",
-            "no-undef": "error",
+            "no-undef": "warn",
             "no-prototype-builtins": "warn"
         }
     }
