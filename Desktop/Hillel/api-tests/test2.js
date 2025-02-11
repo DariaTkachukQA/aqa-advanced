@@ -1,6 +1,6 @@
 const longString =
-  "qwertzuiopüpwoeirutzghvfjdklsöaäsödlfkjghbvncm,x.y-x.c,mvnherfhefhdfdfjvjkdfvnkjdfnvkjdfnvkjdnvjkdnvkdnvknvdjvndkjvnkdjvnkdvnkdvndvndvkdfnvksdfncvkdfnvkdf";
-let userName = "Test";
+	'qwertzuiopüpwoeirutzghvfjdklsöaäsödlfkjghbvncm,x.y-x.c,mvnherfhefhdfdfjvjkdfvnkjdfnvkjdfnvkjdnvjkdnvkdnvknvdjvndkjvnkdjvnkdvnkdvndvndvkdfnvksdfncvkdfnvkdf'
+let userName = 'Test'
 const obj = {
-  username: "Testproperty",
-};
+	username: 'Testproperty',
+}
